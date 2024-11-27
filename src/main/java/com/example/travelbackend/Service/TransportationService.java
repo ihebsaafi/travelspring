@@ -1,15 +1,11 @@
 package com.example.travelbackend.Service;
-
 import com.example.travelbackend.Entity.Transportation;
-import com.example.travelbackend.Entity.User;
 import com.example.travelbackend.repository.TransportationRepository;
-import com.example.travelbackend.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
-@Service
 
+@Service
 public class TransportationService {
 
     @Autowired

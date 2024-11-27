@@ -1,9 +1,9 @@
 package com.example.travelbackend.Service;
 
+
+
 import com.example.travelbackend.Entity.Activity;
-import com.example.travelbackend.Entity.User;
 import com.example.travelbackend.repository.ActivityRepository;
-import com.example.travelbackend.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
